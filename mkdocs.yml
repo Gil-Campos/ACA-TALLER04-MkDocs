@@ -1,10 +1,10 @@
 site_name: Guía Completa de Jetpack Compose
 site_description: Documentación completa para aprender Jetpack Compose
 site_author: Tu Nombre
-site_url: https://Gil-Campos.io/jetpack-compose-docs
+site_url: https://gil-campos.github.io/ACA-TALLER04-MkDocs/
 
-repo_name: Gil-Campos/jetpack-compose-docs
-repo_url: https://github.com/Gil-Campos/jetpack-compose-docs
+repo_name: Gil-Campos/ACA-TALLER04-MkDocs
+repo_url: https://github.com/Gil-Campos/ACA-TALLER04-MkDocs
 
 theme:
   name: material

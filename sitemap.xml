@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://Gil-Campos.io/jetpack-compose-docs/</loc>
+         <loc>https://gil-campos.github.io/ACA-TALLER04-MkDocs/</loc>
          <lastmod>2025-06-19</lastmod>
     </url>
     <url>
-         <loc>https://Gil-Campos.io/jetpack-compose-docs/best-practices/</loc>
+         <loc>https://gil-campos.github.io/ACA-TALLER04-MkDocs/best-practices/</loc>
          <lastmod>2025-06-19</lastmod>
     </url>
     <url>
-         <loc>https://Gil-Campos.io/jetpack-compose-docs/components/</loc>
+         <loc>https://gil-campos.github.io/ACA-TALLER04-MkDocs/components/</loc>
          <lastmod>2025-06-19</lastmod>
     </url>
     <url>
-         <loc>https://Gil-Campos.io/jetpack-compose-docs/getting-started/</loc>
+         <loc>https://gil-campos.github.io/ACA-TALLER04-MkDocs/getting-started/</loc>
          <lastmod>2025-06-19</lastmod>
     </url>
     <url>
-         <loc>https://Gil-Campos.io/jetpack-compose-docs/state-management/</loc>
+         <loc>https://gil-campos.github.io/ACA-TALLER04-MkDocs/state-management/</loc>
          <lastmod>2025-06-19</lastmod>
     </url>
 </urlset>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://Gil-Campos.io/jetpack-compose-docs/</loc>
+         <lastmod>2025-06-19</lastmod>
+    </url>
+    <url>
+         <loc>https://Gil-Campos.io/jetpack-compose-docs/best-practices/</loc>
+         <lastmod>2025-06-19</lastmod>
+    </url>
+    <url>
+         <loc>https://Gil-Campos.io/jetpack-compose-docs/components/</loc>
+         <lastmod>2025-06-19</lastmod>
+    </url>
+    <url>
+         <loc>https://Gil-Campos.io/jetpack-compose-docs/getting-started/</loc>
+         <lastmod>2025-06-19</lastmod>
+    </url>
+    <url>
+         <loc>https://Gil-Campos.io/jetpack-compose-docs/state-management/</loc>
+         <lastmod>2025-06-19</lastmod>
+    </url>
+</urlset>
